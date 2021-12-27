@@ -1,0 +1,2 @@
+# AntGame-final
+Mobile ant game completed with graphics and user controls built using Codename One. The objective of the game is to steer the ant to all the flags in the correct numerical order before the health bar drops to 0. Health drops at a steady rate depending on the ants speed. Health is also impacted by colliding with a spider The only way to recuperate health is to collide with food stations 
